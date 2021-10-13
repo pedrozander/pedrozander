@@ -1,8 +1,7 @@
 # Hello there ~~general Kenobi~~ I'm Pedro! :vulcan_salute:
-*Test automation analist at CWI Software* <br>
-*Aspiring backend developer* <br>
+*Elixir Backend developer* <br>
 
-Hi, I'm Pedro Arthur Chimanko Zander, but you can call me Peter. I'm a brazilian student of Computer Science and a game enthusiast :video_game: <br/>
+Hi, I'm Pedro Arthur Chimanko Zander, but you can call me Peter. I'm a brazilian student of Game design :video_game: <br/>
 
 <a href="https://www.linkedin.com/in/pedro-arthur-zander/">
     <img align="left" alt="Pedro's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
