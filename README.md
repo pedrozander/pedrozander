@@ -1,4 +1,4 @@
-# Hello there ~~general Kenobi~~ I'm Pedro! :vulcan_salute:
+# Hello there I'm Pedro!
 *Elixir Backend developer* <br>
 
 Hi, I'm Pedro Arthur Chimanko Zander, but you can call me Peter. I'm a brazilian student of Game design :video_game: <br/>
